@@ -1,9 +1,10 @@
-# toto je jahodka
+# toto je je jahodka
 
 jahodka je:
-- fajna
+- fajne zeditovane
 - chutna
 - modra
+- malicka alebo velka
 
 mnam!
 
