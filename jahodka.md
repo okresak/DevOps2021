@@ -3,6 +3,8 @@
 jahodka je:
 - fajna
 - chutna
-- cervena
+- modra
 
 mnam!
+
+dodany novy riadok
