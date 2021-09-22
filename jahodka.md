@@ -1,10 +1,11 @@
 # toto je jahodka
 
 jahodka je:
-- fajna
+- fajnaaaaaaa
 - chutna
 - modra
-
-mnam!
+- nova odrazka
+- 
+mnam  !
 
 dodany novy riadok
