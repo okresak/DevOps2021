@@ -7,6 +7,7 @@ jahodka je:
 - modra
 - malicka alebo velka
 - nova odrazka
+- ssh
 
 mnam  !
 
